@@ -31,5 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![ハッピータイム](https://github.com/user-attachments/assets/40eab201-b935-4f0f-869a-a4d6092737c4)
-<use class="v2cropSection" fill="rgba(0,0,0,0)" href="#hole" stroke="#fff" stroke-width="2" style="cursor: move;"></use>
 
