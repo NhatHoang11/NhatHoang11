@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+![ハッピータイム](https://github.com/user-attachments/assets/40eab201-b935-4f0f-869a-a4d6092737c4)
 
